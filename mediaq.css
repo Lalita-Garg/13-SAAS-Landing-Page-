@@ -1,0 +1,83 @@
+@media screen and (max-width:800px) {
+    .homepage {
+        height: 500px;
+    }
+
+    .logo {
+        width: 100px;
+        margin-left: 30px;
+    }
+
+    nav .list {
+        margin-top: 50px;
+        margin-left: 0px;
+        width: 280px;
+    }
+
+    nav .list-item {
+        color: #fff;
+        font-size: 12px;
+    }
+
+    nav button {
+        height: 30px;
+        margin-right: 30px;
+        margin-top: 50px;
+        width: 70px;
+        font-size: 8px;
+    }
+
+    .homepage-content h1 {
+        font-size: 30px;
+        width: 280px;
+        margin-left: 30px;
+    }
+
+    .homepage-content p {
+        font-size: 10px;
+        color: #fff;
+        width: 250px;
+        margin-left: 30px;
+        margin-top: 40px;
+    }
+
+    .homepage-img {
+        margin-top: 120px;
+        margin-right: 30px;
+        width: 180px;
+        height: 120px;
+    }
+
+    .middle-section {
+        display: flex;
+        justify-content: center;
+        margin-top: 30px;
+        margin-left: 0px;
+    }
+
+    .middle-section-img {
+        display: none;
+    }
+
+    .middle-section-content {
+        width: 400px;
+        margin-right: 0px;
+    }
+
+
+}
+
+@media screen and (max-width:600px) {
+    nav .list {
+        display: none;
+    }
+
+    .homepage-img {
+        display: none;
+    }
+
+    h2 {
+        font-size: 25px;
+        width: 300px;
+    }
+}
