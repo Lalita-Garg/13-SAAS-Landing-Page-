@@ -15,7 +15,7 @@ This Project took around 6 hours to complete it.
 - Responsive Design
 
 # Deployment Link
-## [Live Link]()
+## [Live Link](https://saas-landing-website.netlify.app/)
 ## Preview |
 ***
 
